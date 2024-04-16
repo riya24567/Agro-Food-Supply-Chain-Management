@@ -10,8 +10,6 @@ CREATE TABLE IF NOT EXISTS `users` (
 ) ENGINE=InnoDB AUTO_INCREMENT=9 DEFAULT CHARSET=latin1;
 
 INSERT INTO `users` (`id`, `email`, `username`, `password`, `role`) VALUES
-(5, 'anubhavduttas@hotmail.com', 'Anubhav Dsutta', 'anubhav123', 0),
-(6, 'samplemanufacturer@gmail.com', 'SampleManufacturer', '5f4dcc3b5aa765d61d8327deb882cf99', 0),
-(7, 'samplelogistics@gmail.com', 'SampleLogistics', '5f4dcc3b5aa765d61d8327deb882cf99', 1),
-(8, 'samplecustomer@gmail.com', 'SampleCustomer', '5f4dcc3b5aa765d61d8327deb882cf99', 2);
+(5, 'yadavriya468@gmail.com', 'Riya Yadav', 'riya123', 0),
+(6, 'eshita3456@gmail.com', 'SampleManufacturer', '5f4dcc3b5aa765d61d8327deb882cf99', 0);
 
